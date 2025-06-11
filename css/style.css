@@ -1,0 +1,11 @@
+/* Пример кастомизации модального окна */
+.modal-content {
+    background: #f8f9fa;
+    border-radius: 10px;
+}
+
+/* Пример изменения кнопки */
+.btn-primary {
+    background-color: #ff5722;
+    border-color: #ff5722;
+}
