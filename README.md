@@ -1,2 +1,2 @@
-# shaduler
+# auto_scheduling
 это минифицированная версия Bootstrap 4.2.1 (bootstrap.bundle.min.js), которая включает в себя все основные компоненты. Ну, почти...
